@@ -1,101 +1,100 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CH1"
+#EXTINF:-1 tvg-id="1" tvg-name="1"
 http://172.50.50.9:8080/hls/channel1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH2"
+#EXTINF:-1 tvg-id="2" tvg-name="2"
 http://172.50.50.9:8080/hls/channel2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH3"
+#EXTINF:-1 tvg-id="3" tvg-name="3"
 http://172.50.50.9:8080/hls/channel3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH4"
+#EXTINF:-1 tvg-id="4" tvg-name="4"
 http://172.50.50.9:8080/hls/channel4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH5"
+#EXTINF:-1 tvg-id="5" tvg-name="5"
 http://172.50.50.9:8080/hls/channel5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH6"
+#EXTINF:-1 tvg-id="6" tvg-name="6"
 http://172.50.50.9:8080/hls/channel6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH7"
+#EXTINF:-1 tvg-id="7" tvg-name="7"
 http://172.50.50.9:8080/hls/channel7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH8"
+#EXTINF:-1 tvg-id="8" tvg-name="8"
 http://172.50.50.9:8080/hls/channel8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH9"
+#EXTINF:-1 tvg-id="9" tvg-name="9"
 http://172.50.50.9:8080/hls/channel9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH10"
+#EXTINF:-1 tvg-id="10" tvg-name="10"
 http://172.50.50.9:8080/hls/channel10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH11"
+#EXTINF:-1 tvg-id="11" tvg-name="11"
 http://172.50.50.9:8080/hls/channel11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH12"
+#EXTINF:-1 tvg-id="12" tvg-name="12"
 http://172.50.50.9:8080/hls/channel12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH13"
+#EXTINF:-1 tvg-id="13" tvg-name="13"
 http://172.50.50.9:8080/hls/channel13.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH14"
+#EXTINF:-1 tvg-id="14" tvg-name="14"
 http://172.50.50.9:8080/hls/channel14.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH15"
+#EXTINF:-1 tvg-id="15" tvg-name="15"
 http://172.50.50.9:8080/hls/channel15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH16"
+#EXTINF:-1 tvg-id="16" tvg-name="16"
 http://172.50.50.9:8080/hls/channel16.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH17"
+#EXTINF:-1 tvg-id="17" tvg-name="17"
 http://172.50.50.9:8080/hls/channel17.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH18"
+#EXTINF:-1 tvg-id="18" tvg-name="18"
 http://172.50.50.9:8080/hls/channel18.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH19"
+#EXTINF:-1 tvg-id="19" tvg-name="19"
 http://172.50.50.9:8080/hls/channel19.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH20"
+#EXTINF:-1 tvg-id="20" tvg-name="20"
 http://172.50.50.9:8080/hls/channel20.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21"
+#EXTINF:-1 tvg-id="21" tvg-name="21"
 http://172.50.50.9:8080/hls/channel21.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="22"
+#EXTINF:-1 tvg-id="22" tvg-name="22"
 http://172.50.50.9:8080/hls/channel22.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23"
+#EXTINF:-1 tvg-id="23" tvg-name="23"
 http://172.50.50.9:8080/hls/channel23.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24"
+#EXTINF:-1 tvg-id="24" tvg-name="24"
 http://172.50.50.9:8080/hls/channel24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="25"
+#EXTINF:-1 tvg-id="25" tvg-name="25"
 http://172.50.50.9:8080/hls/channel25.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="26"
+#EXTINF:-1 tvg-id="26" tvg-name="26"
 http://172.50.50.9:8080/hls/channel26.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="27"
+#EXTINF:-1 tvg-id="27" tvg-name="27"
 http://172.50.50.9:8080/hls/channel27.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="28"
+#EXTINF:-1 tvg-id="28" tvg-name="28"
 http://172.50.50.9:8080/hls/channel28.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="29"
+#EXTINF:-1 tvg-id="29" tvg-name="29"
 http://172.50.50.9:8080/hls/channel29.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="30"
+#EXTINF:-1 tvg-id="30" tvg-name="30"
 http://172.50.50.9:8080/hls/channel30.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="31"
+#EXTINF:-1 tvg-id="31" tvg-name="31"
 http://172.50.50.9:8080/hls/channel31.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="32"
+#EXTINF:-1 tvg-id="32" tvg-name="32"
 http://172.50.50.9:8080/hls/channel32.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="33"
+#EXTINF:-1 tvg-id="33" tvg-name="33"
 http://172.50.50.9:8080/hls/channel33.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="34"
+#EXTINF:-1 tvg-id="34" tvg-name="34"
 http://172.50.50.9:8080/hls/channel34.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="35"
+#EXTINF:-1 tvg-id="35" tvg-name="35"
 http://172.50.50.9:8080/hls/channel35.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="36"
+#EXTINF:-1 tvg-id="36" tvg-name="36"
 http://172.50.50.9:8080/hls/channel36.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="37"
+#EXTINF:-1 tvg-id="37" tvg-name="37"
 http://172.50.50.9:8080/hls/channel37.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="38"
+#EXTINF:-1 tvg-id="38" tvg-name="38"
 http://172.50.50.9:8080/hls/channel38.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="39"
+#EXTINF:-1 tvg-id="39" tvg-name="39"
 http://172.50.50.9:8080/hls/channel39.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="40"
+#EXTINF:-1 tvg-id="40" tvg-name="40"
 http://172.50.50.9:8080/hls/channel40.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="41"
+#EXTINF:-1 tvg-id="41" tvg-name="41"
 http://172.50.50.9:8080/hls/channel41.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="42"
+#EXTINF:-1 tvg-id="42" tvg-name="42"
 http://172.50.50.9:8080/hls/channel42.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="43"
+#EXTINF:-1 tvg-id="43" tvg-name="43"
 http://172.50.50.9:8080/hls/channel43.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="44"
+#EXTINF:-1 tvg-id="44" tvg-name="44"
 http://172.50.50.9:8080/hls/channel44.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="45"
+#EXTINF:-1 tvg-id="45" tvg-name="45"
 http://172.50.50.9:8080/hls/channel45.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="46"
+#EXTINF:-1 tvg-id="46" tvg-name="46"
 http://172.50.50.9:8080/hls/channel46.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="47"
+#EXTINF:-1 tvg-id="47" tvg-name="47"
 http://172.50.50.9:8080/hls/channel47.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="48"
+#EXTINF:-1 tvg-id="48" tvg-name="48"
 http://172.50.50.9:8080/hls/channel48.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="49"
+#EXTINF:-1 tvg-id="49" tvg-name="49"
 http://172.50.50.9:8080/hls/channel49.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="50"
+#EXTINF:-1 tvg-id="50" tvg-name="50"
 http://172.50.50.9:8080/hls/channel50.m3u8
