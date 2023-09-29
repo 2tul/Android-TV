@@ -7,5 +7,5 @@ http://172.17.50.112/live/antbd1001/index.m3u8
 http://172.17.50.112/live/antbd1002/index.m3u8				
 #EXTINF:0 tvg-logo="" group-title="BD",CH4				
 http://172.17.50.112/live/antbd1003/index.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH5				
-	http://172.17.50.112/live/antbd1004/index.m3u8			
+#EXTINF:0 tvg-logo="" group-title="BD",CH5	
+http://172.17.50.112/live/antbd1004/index.m3u8			
