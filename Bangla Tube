@@ -1,102 +1,11 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="" group-title="BD",CH1				
-http://172.50.50.9:8080/hls/channel1.m3u8				
+http://172.17.50.112/live/fifa2022/index.m3u8				
 #EXTINF:0 tvg-logo="" group-title="BD",CH2				
-http://172.50.50.9:8080/hls/channel2.m3u8				
+http://172.17.50.112/live/antbd1001/index.m3u8				
 #EXTINF:0 tvg-logo="" group-title="BD",CH3				
-http://172.50.50.9:8080/hls/channel3.m3u8				
+http://172.17.50.112/live/antbd1002/index.m3u8				
 #EXTINF:0 tvg-logo="" group-title="BD",CH4				
-http://172.50.50.9:8080/hls/channel4.m3u8				
+http://172.17.50.112/live/antbd1003/index.m3u8				
 #EXTINF:0 tvg-logo="" group-title="BD",CH5				
-http://172.50.50.9:8080/hls/channel5.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH6				
-http://172.50.50.9:8080/hls/channel6.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH7				
-http://172.50.50.9:8080/hls/channel7.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH8				
-http://172.50.50.9:8080/hls/channel8.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH9				
-http://172.50.50.9:8080/hls/channel9.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH10				
-http://172.50.50.9:8080/hls/channel10.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH11				
-http://172.50.50.9:8080/hls/channel11.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH12				
-http://172.50.50.9:8080/hls/channel12.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH13				
-http://172.50.50.9:8080/hls/channel13.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH14				
-http://172.50.50.9:8080/hls/channel14.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH15				
-http://172.50.50.9:8080/hls/channel15.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH16				
-http://172.50.50.9:8080/hls/channel16.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH17				
-http://172.50.50.9:8080/hls/channel17.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH18				
-http://172.50.50.9:8080/hls/channel18.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH19				
-http://172.50.50.9:8080/hls/channel19.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH20				
-http://172.50.50.9:8080/hls/channel20.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH21				
-http://172.50.50.9:8080/hls/channel21.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH22				
-http://172.50.50.9:8080/hls/channel22.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH23				
-http://172.50.50.9:8080/hls/channel23.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH24				
-http://172.50.50.9:8080/hls/channel24.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH25				
-http://172.50.50.9:8080/hls/channel25.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH26				
-http://172.50.50.9:8080/hls/channel26.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH27				
-http://172.50.50.9:8080/hls/channel27.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH28				
-http://172.50.50.9:8080/hls/channel28.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH29				
-http://172.50.50.9:8080/hls/channel29.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH30				
-http://172.50.50.9:8080/hls/channel30.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH31				
-http://172.50.50.9:8080/hls/channel31.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH32				
-http://172.50.50.9:8080/hls/channel32.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH33				
-http://172.50.50.9:8080/hls/channel33.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH34				
-http://172.50.50.9:8080/hls/channel34.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH35				
-http://172.50.50.9:8080/hls/channel35.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH36				
-http://172.50.50.9:8080/hls/channel36.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH37				
-http://172.50.50.9:8080/hls/channel37.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH38				
-http://172.50.50.9:8080/hls/channel38.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH39				
-http://172.50.50.9:8080/hls/channel39.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH40				
-http://172.50.50.9:8080/hls/channel40.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH41				
-http://172.50.50.9:8080/hls/channel41.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH42				
-http://172.50.50.9:8080/hls/channel42.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH43				
-http://172.50.50.9:8080/hls/channel43.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH44				
-http://172.50.50.9:8080/hls/channel44.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH45				
-http://172.50.50.9:8080/hls/channel45.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH46				
-http://172.50.50.9:8080/hls/channel46.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH47				
-http://172.50.50.9:8080/hls/channel47.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH48				
-http://172.50.50.9:8080/hls/channel48.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH49				
-http://172.50.50.9:8080/hls/channel49.m3u8				
-#EXTINF:0 tvg-logo="" group-title="BD",CH50				
-http://172.50.50.9:8080/hls/channel50.m3u8				
-
+	http://172.17.50.112/live/antbd1004/index.m3u8			
